@@ -4,8 +4,8 @@ A Simple login page using Firebase as backend.
 
 ## Note
 
-    - Use Firestore as a backend and makesure to name the database **data** 
-    - [Link this application to your firebase account in order to run it](https://www.youtube.com/watch?v=LKLLcrisa6M&t=7s)
+- Use Firestore as a backend and makesure to name the database **data** 
+- [Link this application to your firebase account in order to run it](https://www.youtube.com/watch?v=LKLLcrisa6M&t=7s)
 
 ## Application Screenshot
 
