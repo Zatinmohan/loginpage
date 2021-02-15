@@ -8,8 +8,12 @@ A Simple login page using Firebase as backend.
 
 ## Application Screenshot
 
+<<<<<<< HEAD
 <img src = "https://user-images.githubusercontent.com/37806553/107923758-f240a600-6f97-11eb-8396-118f2db79f77.jpg" >
 <img src = "https://user-images.githubusercontent.com/37806553/107923769-f7055a00-6f97-11eb-8a21-7f2b048cedb7.jpg">
+=======
+<img src = "https://user-images.githubusercontent.com/37806553/107923758-f240a600-6f97-11eb-8396-118f2db79f77.jpg" width="200" height="400"> &nbsp;&nbsp;&nbsp; <img src = "https://user-images.githubusercontent.com/37806553/107923769-f7055a00-6f97-11eb-8a21-7f2b048cedb7.jpg" width="200" height="400">
+>>>>>>> a1e7410c0a50929e458c95bc6e517d4154f2d38d
 
 ## Resources
 
