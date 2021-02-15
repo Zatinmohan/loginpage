@@ -1,6 +1,14 @@
 # LoginPage
 
-A new Flutter project.
+A Simple login page using Firebase as backend.
+
+## Resources
+
+ - [Design Inspiration](https://www.behance.net/gallery/110135547/LoginSign-Up-Shot?tracking_source=search_projects_recommended%7Clogin%20ui)
+ - [Icons](https://pub.dev/packages/font_awesome_flutter)
+ - [Illustration](https://undraw.co/illustrations)
+ - [Ubuntu Text Theme](https://pub.dev/packages/google_fonts)
+ - [Provider](https://pub.dev/packages/provider)
 
 ## Getting Started
 
